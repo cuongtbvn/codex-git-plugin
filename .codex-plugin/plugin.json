@@ -3,8 +3,11 @@
   "version": "0.1.0",
   "description": "Local Git workflows for inspecting history, committing changes, tagging releases, and safely restoring versions.",
   "author": {
-    "name": "CUONG"
+    "name": "CUONG",
+    "url": "https://github.com/cuongtbvn"
   },
+  "repository": "https://github.com/cuongtbvn/codex-git-plugin",
+  "keywords": ["git", "version-control", "codex"],
   "skills": "./skills/",
   "interface": {
     "displayName": "Git",

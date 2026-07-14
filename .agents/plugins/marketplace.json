@@ -1,0 +1,21 @@
+{
+  "name": "cuong-git-plugins",
+  "interface": {
+    "displayName": "CUONG Git Plugins"
+  },
+  "plugins": [
+    {
+      "name": "git",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/cuongtbvn/codex-git-plugin.git",
+        "ref": "main"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
