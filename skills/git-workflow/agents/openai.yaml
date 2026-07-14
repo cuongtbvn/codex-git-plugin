@@ -1,0 +1,4 @@
+interface:
+  display_name: "Git Workflow"
+  short_description: "Inspect, commit, tag, and restore Git history safely"
+  default_prompt: "Use $git-workflow to inspect this repository and prepare a safe commit."

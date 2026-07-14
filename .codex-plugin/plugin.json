@@ -1,0 +1,19 @@
+{
+  "name": "git",
+  "version": "0.1.0",
+  "description": "Local Git workflows for inspecting history, committing changes, tagging releases, and safely restoring versions.",
+  "author": {
+    "name": "CUONG"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Git",
+    "shortDescription": "Manage local Git history safely in Codex.",
+    "longDescription": "Inspect repository state, create focused commits and release tags, compare versions, and restore work with clear safety checks.",
+    "developerName": "CUONG",
+    "category": "Productivity",
+    "capabilities": ["Read", "Write"],
+    "defaultPrompt": "Check this repository, summarize its Git state, and prepare a safe commit.",
+    "brandColor": "#F05032"
+  }
+}
